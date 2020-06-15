@@ -1,3 +1,4 @@
+//Completed with the help of Mavis Acheampong & Barbara Workman
 const mainElement = document.querySelector('main')
 
 const kata1heading = document.createElement('h2')
